@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Michigan, US",
+  "export_job_id": "04be5e32-2b21-4643-b9a7-5ae48d2a2b7c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 610911,
+  "location_name": "Michigan",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-michigan-us-sample-610911",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/610911/beamstation_610911_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 9.09,
+  "sample_records": 2,
+  "sample_sha256": "2cf2f1777ca46f96edb75b12225783983dd6a162c7e6ec2354878f08ee257acd",
+  "sample_size_bytes": 23769,
+  "total_records": 22,
+  "updated_at": "2026-03-31T23:08:56.756112+00:00"
+}
