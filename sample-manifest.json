@@ -1,0 +1,12 @@
+{
+  "export_job_id": "04be5e32-2b21-4643-b9a7-5ae48d2a2b7c",
+  "id_short": 610911,
+  "published_at": "2026-04-14T07:01:47Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-michigan-us-sample-610911",
+  "sample_asset_name": "beamstation_610911_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/610911/beamstation_610911_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "2cf2f1777ca46f96edb75b12225783983dd6a162c7e6ec2354878f08ee257acd",
+  "sample_size_bytes": 23769,
+  "total_records": 22
+}
